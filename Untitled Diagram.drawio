@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T06:06:48.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="OU-OoJQTzCis44E7NGXl" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T06:11:57.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="iMmvWMXpU07wScjUNRk8" version="14.7.3" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="310" dy="200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="450" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,68 +14,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-6" value="Login" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="30" y="100" width="100" height="30" as="geometry" />
+          <mxGeometry x="60" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="60571a20871a0731-4" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="70" y="60" width="20" height="20" as="geometry" />
+          <mxGeometry x="100" y="60" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-2" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1c1d494c118603dd-2" source="60571a20871a0731-4" target="1c1d494c118603dd-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="142.72727272727275" y="320" as="sourcePoint" />
-            <mxPoint x="122.27272727272725" y="345" as="targetPoint" />
+            <mxPoint x="172.72727272727275" y="320" as="sourcePoint" />
+            <mxPoint x="152.27272727272725" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGpJh3_IjsfsPht-Quog-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.294;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-1" target="RGpJh3_IjsfsPht-Quog-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RGpJh3_IjsfsPht-Quog-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.294;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109.98000000000002" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-1" value="punya&lt;br&gt;akun?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="40" y="160" width="80" height="50" as="geometry" />
+          <mxGeometry x="70" y="160" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-6" target="RGpJh3_IjsfsPht-Quog-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-6" value="Register" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="170" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="200" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-8" target="1c1d494c118603dd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-8" value="Konfir email" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="170" y="100" width="100" height="30" as="geometry" />
+          <mxGeometry x="200" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-1" target="RGpJh3_IjsfsPht-Quog-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="185" as="targetPoint" />
+            <mxPoint x="170" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-13" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="80" y="210" width="20" height="20" as="geometry" />
+          <mxGeometry x="110" y="210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-12" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="120" y="160" width="20" height="20" as="geometry" />
+          <mxGeometry x="150" y="160" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-14" value="Melengkapi form Checkout" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="30" y="310" width="170" height="30" as="geometry" />
+          <mxGeometry x="30" y="420" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RGpJh3_IjsfsPht-Quog-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-33" target="RGpJh3_IjsfsPht-Quog-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RGpJh3_IjsfsPht-Quog-33" value="Tambah produk ke Cart" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+        <mxCell id="RGpJh3_IjsfsPht-Quog-33" value="Pilih Produk" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="30" y="240" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-43" value="Riwayat Pemesanan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="30" y="455" width="170" height="30" as="geometry" />
+          <mxGeometry x="30" y="565" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-45" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1c1d494c118603dd-2">
-          <mxGeometry x="105" y="540" width="20" height="20" as="geometry" />
+          <mxGeometry x="105" y="650" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-45" target="RGpJh3_IjsfsPht-Quog-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-43" target="RGpJh3_IjsfsPht-Quog-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="510" as="targetPoint" />
+            <mxPoint x="115" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RGpJh3_IjsfsPht-Quog-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="RGpJh3_IjsfsPht-Quog-51" target="RGpJh3_IjsfsPht-Quog-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RGpJh3_IjsfsPht-Quog-51" value="Checkout" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="30" y="360" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="MIDTRANS" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="330" y="20" width="250" height="970" as="geometry" />
@@ -84,10 +89,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-35" value="Proses Pembayaran" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
-          <mxGeometry x="40" y="310" width="170" height="30" as="geometry" />
+          <mxGeometry x="40" y="420" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-36" value="Konfirmasi Pembayaran" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-3">
-          <mxGeometry x="40" y="380" width="170" height="30" as="geometry" />
+          <mxGeometry x="40" y="490" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="RGpJh3_IjsfsPht-Quog-14" target="RGpJh3_IjsfsPht-Quog-35">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +100,7 @@
         <mxCell id="RGpJh3_IjsfsPht-Quog-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="RGpJh3_IjsfsPht-Quog-36" target="RGpJh3_IjsfsPht-Quog-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="415" />
+              <mxPoint x="620" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,10 +114,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-39" value="Detail Transaksi Pemesanan dan Pembayaran" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
-          <mxGeometry x="40" y="370" width="170" height="50" as="geometry" />
+          <mxGeometry x="40" y="480" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RGpJh3_IjsfsPht-Quog-41" value="Konfirmasi status Pengiriman Produk" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
-          <mxGeometry x="40" y="450" width="170" height="40" as="geometry" />
+          <mxGeometry x="40" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RGpJh3_IjsfsPht-Quog-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGpJh3_IjsfsPht-Quog-50" target="RGpJh3_IjsfsPht-Quog-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RGpJh3_IjsfsPht-Quog-50" value="Tambah Produk ke Cart" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RGpJh3_IjsfsPht-Quog-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGpJh3_IjsfsPht-Quog-33" target="RGpJh3_IjsfsPht-Quog-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
